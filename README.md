@@ -9,17 +9,16 @@ Full Stack Software Engineer • Product Manager • ML/AI Engineer
 </h3>
 
 <p align="center">
-Building AI-powered products, scalable web applications, and transforming ideas into impactful software.
+I build AI-powered applications, scalable backend systems, and modern web platforms that solve real-world problems.
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Sc. in Software Engineering at **Islamic University of Technology (IUT)**
-- 💻 Passionate about **Artificial Intelligence, LLMs, SaaS, and Full-Stack Development**
-- 🌱 Currently exploring **Agentic AI, LangChain, RAG, AWS, and System Design**
-- ⚡ Love building products that solve real-world problems
+- 🎓 **B.Sc. in Software Engineering** at the Islamic University of Technology (IUT)
+- 🤖 Passionate about **Artificial Intelligence, LLMs, Full-Stack Development, and SaaS**
+- 💡 Interested in building products that combine great user experience with scalable engineering
 
 ---
 
@@ -48,14 +47,14 @@ Building AI-powered products, scalable web applications, and transforming ideas 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,aws"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
----
+
 
 # 🏆 Achievements
 
@@ -75,54 +74,10 @@ Building AI-powered products, scalable web applications, and transforming ideas 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhanSiam042&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSiam042&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=FarhanSiam042&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FarhanSiam042&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSiam042&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/FarhanSiam042/FarhanSiam042/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -131,11 +86,11 @@ Building AI-powered products, scalable web applications, and transforming ideas 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/farhan-shahriar-6473053a8/" target="_blank">
+<a href="https://www.linkedin.com/in/farhan-shahriar-6473053a8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/farhan.shahriar.92505" target="_blank">
+<a href="https://www.facebook.com/farhan.shahriar.92505">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -144,7 +99,5 @@ Building AI-powered products, scalable web applications, and transforming ideas 
 ---
 
 <h3 align="center">
-
-⭐ Building technology that creates real-world impact.
-
+Building intelligent software with real-world impact.
 </h3>
