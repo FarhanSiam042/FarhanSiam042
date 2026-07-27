@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Farhan+Shahriar;Software+Engineer;ML+%26+AI+Engineer;Full+Stack+Developer;Product+Manager" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Farhan+Shahriar+Haque;Software+Engineer;ML+%26+AI+Engineer;Full+Stack+Developer;Product+Manager" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Farhan Shahriar</h1>
+<h1 align="center">Hi 👋 I'm Farhan Shahriar Haque</h1>
 
 <h3 align="center">
 Building AI products, scalable systems, and impactful software.
