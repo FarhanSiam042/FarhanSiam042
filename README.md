@@ -81,19 +81,19 @@ Building AI products, scalable systems, and impactful software.
 
 # 🏆 Achievements
 
-🥇 HSBC Business Case Competition Champion (2025 & 2026)
+🥇 Champion — HSBC Business Case Competition (2025 & 2026)
 
-🥇 IUT National ICT Fest Champion
+🥇 Champion — IUT National ICT Fest (Business Case Competition)
 
-🥈 Oxfam AI Hackathon Runner-Up
+🥈 1st Runner-Up — Oxfam AI Hackathon
 
-🏅 International Data Science Olympiad Finalist
+🏅 Finalist — International Data Science Olympiad
 
-🏅 Youth Innovation Challenge Top 8
+🏅 Top 8 — Youth Innovation Challenge
 
-🏅 Bangladesh Blockchain Olympiad Top 5
+🏅 Top 5 — Bangladesh Blockchain Olympiad (AI Category)
 
-🎓 ISCEA PTAK Scholarship Recipient
+🎓 ISCEA PTAK Prize (70% Scholarship)
 
 ---
 
