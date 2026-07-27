@@ -1,28 +1,52 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Farhan+Shahriar+Haque;Software+Engineer;Full+Stack+Developer;ML+%26+AI+Engineer;Product+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Farhan+Shahriar;Software+Engineer;ML+%26+AI+Engineer;Full+Stack+Developer;Product+Manager" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Farhan Shahriar</h1>
+<h1 align="center">Hi 👋 I'm Farhan Shahriar</h1>
 
 <h3 align="center">
-Full Stack Software Engineer • Product Manager • ML/AI Engineer
+Building AI products, scalable systems, and impactful software.
 </h3>
 
 <p align="center">
-I build AI-powered applications, scalable backend systems, and modern web platforms that solve real-world problems.
+
+<a href="https://www.linkedin.com/in/farhan-shahriar-6473053a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/farhan.shahriar.92505">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 🎓 **B.Sc. in Software Engineering** at the Islamic University of Technology (IUT)
-- 🤖 Passionate about **Artificial Intelligence, LLMs, Full-Stack Development, and SaaS**
-- 💡 Interested in building products that combine great user experience with scalable engineering
+🎓 Software Engineering student at the **Islamic University of Technology (IUT)**
+
+💻 Passionate about **Artificial Intelligence**, **Large Language Models**, **Backend Engineering**, and **Scalable Web Applications**
+
+🚀 Currently building AI-powered SaaS products and full-stack platforms using modern technologies.
+
+🌱 Working on
+
+- Full Stack Development
+- Agentic AI
+- RAG Pipelines
+- LangChain
+- AWS Cloud
+- Distributed Systems
+- System Design
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
@@ -30,7 +54,7 @@ I build AI-powered applications, scalable backend systems, and modern web platfo
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,solidity"/>
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi"/>
@@ -47,7 +71,7 @@ I build AI-powered applications, scalable backend systems, and modern web platfo
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,aws"/>
@@ -55,34 +79,53 @@ I build AI-powered applications, scalable backend systems, and modern web platfo
 </p>
 
 
-
 # 🏆 Achievements
 
-🥇 Champion — HSBC Business Case Competition (2025 & 2026)
+🥇 HSBC Business Case Competition Champion (2025 & 2026)
 
-🥇 Champion — IUT National ICT Fest (Business Case Competition)
+🥇 IUT National ICT Fest Champion
 
-🥈 1st Runner-Up — Oxfam AI Hackathon
+🥈 Oxfam AI Hackathon Runner-Up
 
-🏅 Finalist — International Data Science Olympiad
+🏅 International Data Science Olympiad Finalist
 
-🏅 Top 8 — Youth Innovation Challenge
+🏅 Youth Innovation Challenge Top 8
 
-🏅 Top 5 — Bangladesh Blockchain Olympiad (AI Category)
+🏅 Bangladesh Blockchain Olympiad Top 5
 
-🎓 ISCEA PTAK Prize (70% Scholarship)
+🎓 ISCEA PTAK Scholarship Recipient
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSiam042&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FarhanSiam042&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSiam042&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=FarhanSiam042&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -98,6 +141,8 @@ I build AI-powered applications, scalable backend systems, and modern web platfo
 
 ---
 
-<h3 align="center">
-Building intelligent software with real-world impact.
-</h3>
+<p align="center">
+
+
+
+</p>
