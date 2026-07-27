@@ -100,6 +100,9 @@ Building AI-powered products, scalable web applications, and turning ideas into 
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=FarhanSiam042&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Farhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarhanSiam042&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+.github/workflows/snake.yml
 
 ## 🤝 Connect With Me
 
