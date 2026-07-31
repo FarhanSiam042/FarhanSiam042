@@ -97,16 +97,6 @@ Building AI products, scalable systems, and impactful software.
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSiam042&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
